@@ -1,4 +1,3 @@
-utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/rakshithvasudev/Home-Credit-Default-Risk/License.md)
 
 
