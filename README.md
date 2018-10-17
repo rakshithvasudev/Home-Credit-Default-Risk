@@ -46,20 +46,19 @@ jupyter notebook
 
 ## Running the notebook
 
-Navigate inside the "Model Building" folder and launch the notebook & to run cells type
+Navigate inside the "Model Building" folder and launch the notebook & to run cells do:
 
 ```
 Shift + Enter
 ```
 
 
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [Jupyter Notebook](http://jupyter.org/) - Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+* [scikit-learn](http://scikit-learn.org/stable/) - Machine Learning in Python.
+* [Pandas](https://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+* etc
  
 ## License
 
@@ -67,6 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Awesome answers at stackoverflow.
+* Kaggle
+
