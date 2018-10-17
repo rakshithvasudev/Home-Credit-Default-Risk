@@ -23,55 +23,36 @@ Supervised: The labels are included in the training data and the goal is to trai
 
 Classification: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+1. Clone repository and install requirements (use Python3.5)
 
 ```
-Give the example
+git clone https://github.com/rakshithvasudev/Home-Credit-Default-Risk.git
 ```
 
-And repeat
 
 ```
-until finished
+pip3 install -r requirements.txt
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+### Running 
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+2. Navigate inside the "Home-Credit-Default-Risk" folder and Run  
 
 ```
-Give an example
+jupyter notebook
 ```
 
-### And coding style tests
+## Running the notebook
 
-Explain what these tests test and why
+Navigate inside the "Model Building" folder and launch the notebook & to run cells type
 
 ```
-Give an example
+Shift + Enter
 ```
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
