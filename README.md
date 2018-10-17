@@ -4,7 +4,7 @@
 # Home-Credit-Default-Risk
 Predicting how capable each applicant is of repaying a loan (Kaggle Challenge).
 
-<img src="https://github.com/rakshithvasudev/Home-Credit-Default-Risk/blob/master/final%20presentation/images/loan.jpg" alt="loan" width="600" height="200"/>
+<img src="https://github.com/rakshithvasudev/Home-Credit-Default-Risk/blob/master/final%20presentation/images/loan.jpg" alt="loan" width="600" height="400"/>
 
 ## Getting Started
 
