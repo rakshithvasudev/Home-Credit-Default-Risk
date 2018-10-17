@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/rakshithvasudev/Home-Credit-Default-Risk/License.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/rakshithvasudev/Home-Credit-Default-Risk/blob/master/License.md)
 
 
 # Home-Credit-Default-Risk
