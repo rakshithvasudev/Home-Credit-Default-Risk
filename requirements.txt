@@ -166,7 +166,7 @@ tornado==4.5.1
 tqdm==4.19.5
 traitlets==4.3.2
 tweepy==3.5.0
-Twisted==17.5.0
+Twisted==22.2.0
 ucrdtw==0.201
 udemy-dl==0.2.1
 ujson==1.35
