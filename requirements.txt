@@ -48,7 +48,7 @@ ggplot==0.11.5
 gunicorn==19.7.1
 gym==0.10.3
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 hyperlink==17.1.1
 idna==2.5
 imagesize==0.7.1
